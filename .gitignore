@@ -1,0 +1,11 @@
+obj
+bin
+packages/
+_ReSharper.*
+.nuget/
+*.csproj.user
+*.resharper
+*.resharper.user
+*.suo
+*.cache
+*.swp
